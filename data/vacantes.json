@@ -1,0 +1,502 @@
+[
+  {
+    "id": "vacante-0",
+    "titulo": "Solution Architect - AWS Plattform & Cloud Security (m/w/d)",
+    "empresa": "Rockstardevelopers GmbH",
+    "ubicacion": "Stuttgart",
+    "remoto": true,
+    "tags": "Remote, Software Development",
+    "descripcion": "Wer wir sind\nRockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software-Entwickler mit Erfahrung aus hunderten von individuellen Projekten für Enterprise- und Mittelstands-Kunden.\nKurze Wege, ehrliches Feedback, keine politischen Spielchen. Keine Hierarchie-Ebenen zwischen dir und den Leuten, die Entscheidungen treffen.\nDeine Aufgaben\n\nPlattformarchitektur auf AWS entwerfen und weiterentwickeln: EKS, ECR, Fargate, Cluster-Design, Namespace-Strat",
+    "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/solution-architect-aws-plattform-cloud-security-stuttgart-12120"
+  },
+  {
+    "id": "vacante-1",
+    "titulo": "Senior Sales Engineer",
+    "empresa": "Veeamsoftware",
+    "ubicacion": "Remote",
+    "remoto": true,
+    "tags": "Regional Technical Sales EMEA 1000031",
+    "descripcion": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;elementToProof&quot;&gt;\n&lt;p&gt;Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more t",
+    "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-sales-engineer-174596"
+  },
+  {
+    "id": "vacante-2",
+    "titulo": "Senior SAP ABAP Developer - HR Data Migration Support (Freelance, Remote)",
+    "empresa": "Sidekick Network GmbH & Co. KG",
+    "ubicacion": "Bonn",
+    "remoto": true,
+    "tags": "Remote, IT",
+    "descripcion": "We are currently supporting an international client in the automotive sector with the stabilization and maintenance of an existing SAP HR master data migration solution.\nThe technical setup is already in place. HR master data is currently being transferred from a legacy SAP environment into the new company SAP system. The client is therefore not looking for a developer to build a new solution, but for an experienced ABAP specialist who can support the team with occasional technical issues, debug",
+    "url": "https://www.arbeitnow.com/jobs/companies/sidekick-network-gmbh-co-kg/senior-sap-abap-developer-hr-data-migration-support-freelance-remote-bonn-24417"
+  },
+  {
+    "id": "vacante-3",
+    "titulo": "SAP Basis (Senior) Consultant (m/w/d)",
+    "empresa": "Windhoff Group",
+    "ubicacion": "Gescher",
+    "remoto": true,
+    "tags": "Remote, Consulting, Engineering",
+    "descripcion": "Seit über 25 Jahren verwandeln wir bei der Windhoff Group Daten in echte Geschäftschancen – von klassischer Business Intelligence bis zur KI-getriebenen Automatisierung. Dabei denken wir ganzheitlich: Wir begleiten unsere Kunden End-to-End, von der Strategie über die technische Umsetzung bis zum produktiven Betrieb. Ob BI-Reporting, Data Warehousing, Predictive Analytics oder KI-Lösungen – unser Anspruch ist es, aus Daten messbaren Mehrwert zu machen.\nAls Teil unseres 300-köpfigen Teams wirst du",
+    "url": "https://www.arbeitnow.com/jobs/companies/windhoff-group/sap-basis-senior-consultant-gescher-378711"
+  },
+  {
+    "id": "vacante-4",
+    "titulo": "Software Developer: Python (m/w/d)",
+    "empresa": "sync.blue® GmbH",
+    "ubicacion": "Haltern am See",
+    "remoto": true,
+    "tags": "Remote, Software Development",
+    "descripcion": "Du arbeitest strukturiert, behältst auch in komplexen Situationen den Überblick und hast Freude daran, Features von der Idee bis zum Produktiveinsatz zu entwickeln und dabei Qualität durch Tests, Reviews und saubere Dokumentation sicherzustellen? Dann passt du perfekt zu uns.\nWir sind ein dynamisches, hoch motiviertes Team mit familiärem Umgang. Als Ausgleich zur Remote-Arbeit treffen wir uns einmal pro Monat in Dülmen und zweimal pro Jahr für Team-Events an besonders spannenden Orten dieser Wel",
+    "url": "https://www.arbeitnow.com/jobs/companies/syncblue-gmbh/software-developer-python-haltern-am-see-400521"
+  },
+  {
+    "id": "vacante-5",
+    "titulo": "Engineering Lead (m/w/d) TS, React, Next.js & AI 100% Remote",
+    "empresa": "NotarPartner GmbH",
+    "ubicacion": "Hamburg",
+    "remoto": true,
+    "tags": "Remote, Web Development",
+    "descripcion": "NotarPartner baut die digitale Arbeitsumgebung für das deutsche Notariat – von Notaren für Notare. Statt Copy-Paste aus Word-Mustern: Daten eingeben, Regelung auswählen, unterschriftsreife Urkunde herunterladen. Über 140 Kanzleien arbeiten bereits mit uns, dazu kommen digitale Akten &#x26; KI-Assistent.\nWir haben gerade unsere Finanzierungsrunde abgeschlossen. In den nächsten Monaten skalieren wir von rund 120 auf 2.000 angeschlossene Notariate. Dafür bauen wir ein Inhouse-Engineering-Team auf.\n",
+    "url": "https://www.arbeitnow.com/jobs/companies/notarpartner-gmbh/engineering-lead-ts-react-nextjs-ai-100-remote-hamburg-153675"
+  },
+  {
+    "id": "vacante-6",
+    "titulo": "Media Search Analyst - English (United Kingdom)",
+    "empresa": "TELUS Digital",
+    "ubicacion": "London",
+    "remoto": true,
+    "tags": "Remote, Database Administration",
+    "descripcion": "Ready to say goodbye to the boring, traditional 9-5 routine and embrace a dynamic and exciting work environment that puts you in control? This position offers you the flexibility to set your own schedule and complete exciting tasks using an innovative web-based evaluation tool.\nTasks\nA Day in the Life of a Media Search Analyst:\n\nIn this role, you will be doing a comprehensive assessment of diverse task categories, encompassing music, video, Books, Podcasts and home pod evaluations spanning vario",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/telus-digital/media-search-analyst-english-united-kingdom-london-58792"
+  },
+  {
+    "id": "vacante-7",
+    "titulo": "Junior Fullstack Engineer (m/w/d) TS, React, Next.js & AI  100% Remote",
+    "empresa": "NotarPartner GmbH",
+    "ubicacion": "Hamburg",
+    "remoto": true,
+    "tags": "Remote, Web Development",
+    "descripcion": "NotarPartner baut die digitale Arbeitsumgebung für das deutsche Notariat – von Notaren für Notare. Statt Copy-Paste aus Word-Mustern: Daten eingeben, Regelung auswählen, unterschriftsreife Urkunde herunterladen. Über 140 Kanzleien arbeiten bereits mit uns, dazu kommen digitale Akten &#x26; KI-Assistent.\nWir haben gerade unsere Finanzierungsrunde abgeschlossen. In den nächsten Monaten skalieren wir von rund 120 auf 2.000 angeschlossene Notariate. Dafür bauen wir ein Inhouse-Engineering-Team auf.\n",
+    "url": "https://www.arbeitnow.com/jobs/companies/notarpartner-gmbh/junior-fullstack-engineer-ts-react-nextjs-ai-100-remote-hamburg-425588"
+  },
+  {
+    "id": "vacante-8",
+    "titulo": "Product Engineer",
+    "empresa": "MedMatic GmbH",
+    "ubicacion": "Munich",
+    "remoto": true,
+    "tags": "Remote, Engineering",
+    "descripcion": "Über uns\nDer zunehmende Kostendruck im deutschen Gesundheitswesen stellt Krankenhäuser vor eine große Herausforderung: Sie müssen immer komplexere Anforderungen erfüllen, um ihre erbrachten Leistungen vollständig und korrekt vergütet zu bekommen. Gleichzeitig arbeiten bereits mehr als 80 Prozent der deutschen Krankenhäuser defizitär.\nMit unserer KI-Lösung unterstützen wir bereits zahlreiche öffentliche, private und kirchliche Krankenhäuser in ganz Deutschland dabei, den gesamten Prozess von der ",
+    "url": "https://www.arbeitnow.com/jobs/companies/medmatic-gmbh/product-engineer-munich-30842"
+  },
+  {
+    "id": "vacante-9",
+    "titulo": "Senior SAP Consultant (m/w/d) - (technisches) Immobilienmanagement (SAP MM/PM/PS)",
+    "empresa": "Promos Consult Gmbh",
+    "ubicacion": "Berlin",
+    "remoto": true,
+    "tags": "SAP, Beratung, Consulting, Logistik, Immobilienmanagement, MM, PM, PS, Technisches Immobilienmanagement, remote, Homeoffice, Consultant",
+    "descripcion": "Wenn du Spaß hast an ...der Beratung unserer Kundinnen und Kunden bei der SAP-Einführung in den Bereichen Instandhaltung, Bauplanung und Baucontrolling,Analyse-, Entwicklungs- und Implementierungsaufgaben in SAP-Projekten,der Qualitätssicherung unserer SAP- und PROMOS.GT-Lösungen für das technische Immobilienmanagement,der Planung und Durchführung von Schulungen und Workshops, Betreuung der Key-User,perspektivisch: der Übernahme von Aufgaben in der (Teil-)Projektleitung,Und du ...ein erfolgreich",
+    "url": "https://www.arbeitnow.com/jobs/companies/promos-consult-gmbh/remote-senior-sap-consultant-technisches-immobilienmanagement-sap-mm-pm-ps-berlin-203549"
+  },
+  {
+    "id": "vacante-10",
+    "titulo": "IT-Administration / REMOTE / Werkstudent (m/w/d)",
+    "empresa": "eternus technology gmbh",
+    "ubicacion": "Karlstein am Main",
+    "remoto": true,
+    "tags": "Remote, System and Network Administration",
+    "descripcion": "Du studierst und möchtest praktische Erfahrungen sammeln, statt nur theoretische\nKonzepte zu lernen?\nDeine Mission: du unterstützt uns bei der Betreuung unserer IT-Infrastruktur und packst\ndort mit an, wo andere nur Fehlermeldungen sehen.\nWir entwickeln und optimieren Reparatur- und Prüfsysteme für Leistungselektronik im\nBereich Photovoltaik – und suchen deine Unterstützung, im Bereich der IT\nAdministration (m/w/d).\nAufgaben\n\nUnterstützung bei der Administration und Betreuung unserer IT-Systeme\n",
+    "url": "https://www.arbeitnow.com/jobs/companies/eternus-technology-gmbh/it-administration-remote-werkstudent-karlstein-am-main-271620"
+  },
+  {
+    "id": "vacante-11",
+    "titulo": "Staff Software Engineer - Security Agent",
+    "empresa": "Datadog",
+    "ubicacion": "Remote",
+    "remoto": true,
+    "tags": "Dev Eng",
+    "descripcion": "&lt;p&gt;This role is part of Datadog’s Security Agent team, which powers critical security capabilities across Workload Protection, Vulnerability Management, Cloud Security products, and other emerging security offerings. As a Staff Software Engineer, you will lead the design and development of low-level Linux instrumentation and runtime security technologies that help customers detect threats, monitor system activity, and protect cloud-native workloads at scale. You will work on complex techni",
+    "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-staff-software-engineer-security-agent-182551"
+  },
+  {
+    "id": "vacante-12",
+    "titulo": "Senior AI Engineer – Notebooks",
+    "empresa": "Datadog",
+    "ubicacion": "Remote",
+    "remoto": true,
+    "tags": "Dev Eng",
+    "descripcion": "&lt;p&gt;Datadog Notebooks provide customers with a collaborative surface for ad-hoc data analysis, technical documentation, incident postmortems and runbooks. The power and flexibility of Notebooks also makes it the perfect place to integrate AI tools that can augment user workflows. Our vision is that in Notebooks users can collaborate with each other and with AI agents seamlessly.&lt;/p&gt;\n&lt;p&gt;We are looking for a product-oriented Senior Software Engineer to help build the AI-assisted w",
+    "url": "https://www.arbeitnow.com/jobs/companies/datadog/remote-senior-ai-engineer-notebooks-104660"
+  },
+  {
+    "id": "vacante-13",
+    "titulo": "Onboarding & Customer Support Manager mit Paid / Social Media Marketing Erfahrung (w/m/d) remote",
+    "empresa": "DatAds",
+    "ubicacion": "Cologne",
+    "remoto": true,
+    "tags": "Remote, Customer Service",
+    "descripcion": "Mit DatAds haben wir uns ein großes Ziel gesetzt: Wir wollen den Ad Creative Prozess auf das nächste Level bringen.\nUnsere Software ist die Brücke zwischen datengetriebenen Performance Marketing und innovativen Creative Teams. Damit ermöglichen wir Performance Marketern und Creative Designern optimal zusammenzuarbeiten und durch AI Analysen mehr erfolgreiche Werbeanzeigen zu erstellen.\nWir arbeiten mit einigen der größten eCommerce Brands und Marketing Agenturen zusammen, wie z.B. Holy, yfood, a",
+    "url": "https://www.arbeitnow.com/jobs/companies/datads/onboarding-customer-success-manager-mit-paid-social-media-marketing-erfahrung-remote-cologne-172885"
+  },
+  {
+    "id": "vacante-14",
+    "titulo": "Onboarding & Customer Success mit Performance Marketing Erfahrung + Creative Strategy / E-commerce (w/m/d)",
+    "empresa": "DatAds",
+    "ubicacion": "Cologne",
+    "remoto": true,
+    "tags": "Remote, Customer Service",
+    "descripcion": "Mit DatAds haben wir uns ein großes Ziel gesetzt: Wir wollen den Ad Creative Prozess auf das nächste Level bringen.\nUnsere Software ist die Brücke zwischen datengetriebenen Performance Marketing und innovativen Creative Teams. Damit ermöglichen wir Performance Marketern und Creative Designern optimal zusammenzuarbeiten und durch AI Analysen mehr erfolgreiche Werbeanzeigen zu erstellen.\nWir arbeiten mit einigen der größten eCommerce Brands und Marketing Agenturen zusammen, wie z.B. Holy, yfood, a",
+    "url": "https://www.arbeitnow.com/jobs/companies/datads/onboarding-customer-success-mit-performance-marketing-erfahrung-creative-strategy-e-commerce-cologne-143510"
+  },
+  {
+    "id": "vacante-15",
+    "titulo": "Customer Success Manager mit Paid Social Media Buyer / Social Media Marketing Erfahrung (w/m/d) remote",
+    "empresa": "DatAds",
+    "ubicacion": "Cologne",
+    "remoto": true,
+    "tags": "Remote, Customer Service",
+    "descripcion": "Mit DatAds haben wir uns ein großes Ziel gesetzt: Wir wollen den Ad Creative Prozess auf das nächste Level bringen.\nUnsere Software ist die Brücke zwischen datengetriebenen Performance Marketing und innovativen Creative Teams. Damit ermöglichen wir Performance Marketern und Creative Designern optimal zusammenzuarbeiten und durch AI Analysen mehr erfolgreiche Werbeanzeigen zu erstellen.\nWir arbeiten mit einigen der größten eCommerce Brands und Marketing Agenturen zusammen, wie z.B. Holy, yfood, a",
+    "url": "https://www.arbeitnow.com/jobs/companies/datads/customer-success-manager-mit-paid-social-media-buyer-social-media-marketing-erfahrung-remote-cologne-293288"
+  },
+  {
+    "id": "vacante-16",
+    "titulo": "Cloud Engineer (m/w/d) mit Karriereambitionen!",
+    "empresa": "Auralis Group",
+    "ubicacion": "Markt Indersdorf",
+    "remoto": true,
+    "tags": "Remote, System and Network Administration",
+    "descripcion": "Wir sind ein fast zwei Jahre altes IT Unternehmen, aktuell 50 MA, und suchen nun weiterhin Verstärkung, um Cloud-Projekte bei unseren Kunden durchzuführen.\nAufgaben\nDu willst:\n\nDeine Arbeitszeiten selbst bestimmen?\nvon zuhause aus arbeiten (remote)?\nden nächsten Schritt in Deiner Karriere gehen und lernen, wie man Teams leitet und ein Unternehmen führt?\neinen Arbeitgeber, der Dich leistungs- und ergebnisorientiert bezahlt?\n\nQualifikation\nDu:\n\nbist seit 4 Jahren in Vollzeit berufstätig im Bereich",
+    "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/cloud-engineer-mit-karriereambitionen-markt-indersdorf-127168"
+  },
+  {
+    "id": "vacante-17",
+    "titulo": "Werkstudent:in Business Operations",
+    "empresa": "VESTIGAS GmbH",
+    "ubicacion": "München (Hybrid)",
+    "remoto": true,
+    "tags": "Business Operations, Excel, Prozessoptimierung, Strategieberatung, Founders Associate, Chief of Staff, Automatisierung, internship, Praktikum, Teilzeit, Werkstudent, Werkstudentenjob, München, Remote, Hybrid, tech startup, saas",
+    "descripcion": "Wir digitalisieren die Bauindustrie. Bist du dabei?Bei VESTIGAS baust du an der digitalen Grundlage der Bau-Lieferkette: Wir machen aus Bestellungen, Lieferscheinen und Rechnungen eine digitale, rechtssichere Plattform, die im Alltag von Bauunternehmen und Lieferanten genutzt wird. Du arbeitest an einem Produkt mit echter Marktdurchdringung in einem riesigen DACH-Mittelstandsmarkt, lieferst Ergebnisse iterativ und übernimmst Ownership für Lösungen, die in der Praxis funktionieren müssen und nich",
+    "url": "https://www.arbeitnow.com/jobs/companies/vestigas-gmbh/remote-werkstudentin-business-operations-munchen-hybrid-62851"
+  },
+  {
+    "id": "vacante-18",
+    "titulo": "Java Backend Entwickler - Spring Boot & Camunda (m/w/d)",
+    "empresa": "Rockstardevelopers GmbH",
+    "ubicacion": "Stuttgart",
+    "remoto": true,
+    "tags": "Remote, Software Development",
+    "descripcion": "Wer wir sind\nRockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software-Entwickler mit Erfahrung aus hunderten von individuellen Projekten für Enterprise- und Mittelstands-Kunden.\nKurze Wege, ehrliches Feedback, keine politischen Spielchen. Keine Hierarchie-Ebenen zwischen dir und den Leuten, die Entscheidungen treffen.\nDeine Aufgaben\nDu arbeitest in Kundenprojekten bei großen Unternehmen und öffentlichen Auftraggebern, eingebettet in deren Team",
+    "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/java-backend-entwickler-spring-boot-camunda-stuttgart-238501"
+  },
+  {
+    "id": "vacante-19",
+    "titulo": "AI-Strategy & Digital Implementation",
+    "empresa": "Xeno Patch",
+    "ubicacion": "Munich",
+    "remoto": true,
+    "tags": "Remote, Business Development",
+    "descripcion": "Unsere digitale Präsenz wächst schnell, Website, App und Kunden-Dashboard entstehen aktuell parallel bei unterschiedlichen Anbietern und sollen enger zusammengeführt werden. Als Werkstudent:in Digital &#x26; App übernimmst du Verantwortung für diesen Bereich: Du bringst bestehende digitale Bausteine zusammen, testest neue Ideen und baust mit modernen KI-gestützten Tools zügig neue Funktionen.\nAufgaben\n\nWeiterentwicklung und Pflege unserer Website (aktuell auf Lovable umgesetzt)\nMitarbeit an unse",
+    "url": "https://www.arbeitnow.com/jobs/companies/xeno-patch/ai-strategy-digital-implementation-munich-109620"
+  },
+  {
+    "id": "vacante-20",
+    "titulo": "Teamleiter:in für für Photovoltaikanlagen (w/m/d)",
+    "empresa": "Enpal",
+    "ubicacion": "Remote",
+    "remoto": true,
+    "tags": "Installation PV",
+    "descripcion": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über Wallbox, Smart Meter bis zur Wärmepumpe. Herzstück ist unsere KI-gestützte Plattform Enpal.One+, die tausende Systeme intelligent vernetzt und Strombezug sowie -einspeisung effizient am Energiemarkt optimiert.Bist Du bereit für Lösungen, die mehr als nur ein Verspre",
+    "url": "https://www.arbeitnow.com/jobs/companies/enpal/remote-teamleiterin-fur-fur-photovoltaikanlagen-131782"
+  },
+  {
+    "id": "vacante-21",
+    "titulo": "Senior Full-Stack Engineer (Backend + Frontend)",
+    "empresa": "Soda Data Nv",
+    "ubicacion": "Germany",
+    "remoto": true,
+    "tags": "Computer Software, Remote",
+    "descripcion": "Data quality is the bottleneck of the AI era. Every Fortune 500 is trying to solve it. We're the team they call.Soda is the data quality layer for Disney, Ralph Lauren, CBRE, HelloFresh, 2K Games, and Nubank. Our open-source engine, Soda Core, is used by companies like Tesla, Slack, Adyen, Walmart, and JPMC. The category is growing fast because AI doesn't work on bad data, and we're hiring a&nbsp;Senior Full-Stack Engineer&nbsp;to build the platform that catches data problems before they become ",
+    "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-full-stack-engineer-backend-frontend-germany-4455"
+  },
+  {
+    "id": "vacante-22",
+    "titulo": "Senior Frontend Engineer (Full-stack)",
+    "empresa": "Soda Data Nv",
+    "ubicacion": "Germany",
+    "remoto": true,
+    "tags": "Computer Software, Remote",
+    "descripcion": "Data quality is the bottleneck of the AI era. Every Fortune 500 is trying to solve it. We're the team they call.Soda is the data quality layer for Disney, Ralph Lauren, CBRE, HelloFresh, 2K Games, and Nubank. Our open-source engine, Soda Core, is used by companies like Tesla, Slack, Adyen, Walmart, and JPMC. The category is growing fast because AI doesn't work on bad data, and we're hiring a&nbsp;Senior Full-Stack Engineer&nbsp;to build the platform that catches data problems before they become ",
+    "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-frontend-engineer-full-stack-germany-476687"
+  },
+  {
+    "id": "vacante-23",
+    "titulo": "Senior Backend + Infrastructure Engineer (Platform)",
+    "empresa": "Soda Data Nv",
+    "ubicacion": "Germany",
+    "remoto": true,
+    "tags": "Computer Software, Remote",
+    "descripcion": "Data quality is the bottleneck of the AI era. Every Fortune 500 is trying to solve it. We're the team they call.Soda is the data quality layer for Disney, Ralph Lauren, CBRE, HelloFresh, 2K Games, and Nubank. Our open-source engine, Soda Core, is used by companies like Tesla, Slack, Adyen, Walmart, and JPMC. The category is growing fast because AI doesn't work on bad data, and we're hiring a&nbsp;Senior Full-Stack Engineer&nbsp;to build the platform that catches data problems before they become ",
+    "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-backend-infrastructure-engineer-platform-germany-203231"
+  },
+  {
+    "id": "vacante-24",
+    "titulo": "Head of Music",
+    "empresa": "Elevenlabs",
+    "ubicacion": "Remote",
+    "remoto": true,
+    "tags": "Engineering & Product",
+    "descripcion": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $11B - ",
+    "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-head-of-music-83455"
+  },
+  {
+    "id": "vacante-25",
+    "titulo": "Forward Deployed Engineer",
+    "empresa": "Hexa",
+    "ubicacion": "Remote",
+    "remoto": true,
+    "tags": "Waniwani",
+    "descripcion": "About WaniwaniWaniwani builds the infrastructure that distributes insurance and banking products through AI assistants. We raised an $8M seed led by Seedcamp and work with large European banks and insurers. Each enterprise deal has to be scoped, architected, and deployed into a regulated environment. This role owns the layer between a signed deal and a live deployment.The roleCustomer workshops, discovery, and requirements (35%). Run technical discovery and workshops with each client, and transl",
+    "url": "https://www.arbeitnow.com/jobs/companies/hexa/remote-forward-deployed-engineer-3110"
+  },
+  {
+    "id": "vacante-26",
+    "titulo": "Team Lead Data Products & Analytics (gn)",
+    "empresa": "Bikeleasing-Service GmbH & Co. KG",
+    "ubicacion": "Berlin",
+    "remoto": true,
+    "tags": "Remote, Software Development",
+    "descripcion": "Deine Aufgaben\nMit der Bikeleasing Gruppe gestalten wir die Zukunft moderner Mobilität und Arbeitswelten. Als führende Unternehmensgruppe für Arbeitgeber-Benefits und Mobilitätslösungen vereinen wir fünf spezialisierte Unternehmen unter einem Dach – von Multi-Benefit-Anbietern über Leasing- und Versicherungsdienstleister bis hin zu Händlern für refurbished Bikes. Wir wachsen profitabel und befinden uns auf einer spannenden technischen Transformationsreise. Als Team Lead Data Products &#x26; Anal",
+    "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing-service-gmbh-co-kg/team-lead-data-products-analytics-gn-berlin-141780"
+  },
+  {
+    "id": "vacante-27",
+    "titulo": "Team Lead Data Products & Analytics (gn)",
+    "empresa": "Bikeleasing-Service GmbH & Co. KG",
+    "ubicacion": "Berlin",
+    "remoto": true,
+    "tags": "Remote, Software Development",
+    "descripcion": "Your mission\nWith the Bikeleasing Group, we are shaping the future of modern mobility and working environments. As a leading group for employer benefits and mobility solutions, we bring together five specialised companies under one roof – from multi-benefit providers and leasing and insurance services to dealers in refurbished bikes. We are growing profitably and are on an exciting technical transformation journey. As Team Lead Data Products &#x26; Analytics (gn), you will have a significant imp",
+    "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing-service-gmbh-co-kg/team-lead-data-products-analytics-gn-berlin-77346"
+  },
+  {
+    "id": "vacante-28",
+    "titulo": "Remote Part-time Media Search Analyst - German (DE)",
+    "empresa": "TELUS Digital",
+    "ubicacion": "Berlin",
+    "remoto": true,
+    "tags": "Remote, Database Administration",
+    "descripcion": "(This is a freelance position)\nReady to say goodbye to the boring, traditional 9-5 routine and embrace a dynamic and exciting work environment that puts you in control? This position offers you the flexibility to set your own schedule and complete exciting tasks using an innovative web-based evaluation tool.\nTasks\nA Day in the Life of a Media Search Analyst:\n\nIn this role, you will be doing a comprehensive assessment of diverse task categories, encompassing music, video, books, podcasts and home",
+    "url": "https://www.arbeitnow.com/jobs/companies/telus-digital/remote-part-time-media-search-analyst-german-de-berlin-206269"
+  },
+  {
+    "id": "vacante-29",
+    "titulo": "Quality Assurance Rater - German (DE)",
+    "empresa": "TELUS Digital",
+    "ubicacion": "Berlin",
+    "remoto": true,
+    "tags": "Remote, Database Administration",
+    "descripcion": "Verstärken Sie unser Team von Senior Ratern und leisten Sie einen wichtigen Beitrag zur Erstellung hochwertiger Validierungsdaten, die die Weiterentwicklung und Qualitätssicherung führender Suchmaschinen und KI-Technologien maßgeblich beeinflussen.\nDiese flexible Remote-Tätigkeit bietet Ihnen die Möglichkeit, Ihre analytischen Fähigkeiten und Ihre Recherchekompetenz einzusetzen, um Suchergebnisse und KI-generierte Inhalte zu bewerten und gleichzeitig zur Entwicklung hochwertiger KI-Systeme beizu",
+    "url": "https://www.arbeitnow.com/jobs/companies/telus-digital/quality-assurance-rater-german-de-berlin-137274"
+  },
+  {
+    "id": "vacante-30",
+    "titulo": "Senior Infrastructure Automation Engineer",
+    "empresa": "OPSinnovate",
+    "ubicacion": "Hamburg",
+    "remoto": true,
+    "tags": "Remote, Automation Engineering",
+    "descripcion": "We are looking for a Senior Infrastructure Automation / DevSecOps Engineer to support the further development and automation of an existing vulnerability management platform for a public-sector client in Germany.\nThe role focuses on Infrastructure as Code, Linux automation, virtual machine provisioning, API integrations, security, and infrastructure connectivity.\nYou will work closely with existing infrastructure and operations teams to further develop the automation environment and ensure relia",
+    "url": "https://www.arbeitnow.com/jobs/companies/opsinnovate/senior-infrastructure-automation-engineer-hamburg-278494"
+  },
+  {
+    "id": "vacante-31",
+    "titulo": "Werkstudent Planungsrecht & Research (m/w/d)",
+    "empresa": "syte GmbH",
+    "ubicacion": "Münster",
+    "remoto": true,
+    "tags": "Remote, Database Administration",
+    "descripcion": "Deine Mission\nDie Software von syte hilft Entwickler*innen, Planer*innen und Investor*innen dabei, komplexe Entscheidungen rund um Immobilienprojekte zu treffen. Jetzt bauen wir eine KI-Suche, die für jedes Grundstück in Deutschland herausfindet, welches Planungsrecht dort gilt: Bebauungsplan, Flächennutzungsplan, Erhaltungssatzung – alles, was zwischen einer Idee und einem genehmigungsfähigen Projekt steht.\nAls Werkstudent Planungsrecht &#x26; Research (m/w/d) unterstützt du ab dem 01.09.2026 d",
+    "url": "https://www.arbeitnow.com/jobs/companies/syte-gmbh/werkstudent-planungsrecht-research-munster-95946"
+  },
+  {
+    "id": "vacante-32",
+    "titulo": "Teamführung CRM / E-Mail Marketing",
+    "empresa": "MAILODY GmbH",
+    "ubicacion": "Berlin",
+    "remoto": true,
+    "tags": "Remote, Marketing and Communication",
+    "descripcion": "Wir wachsen schneller, als unsere Betreuungsstruktur mitkommt. Aktuell hängen zu viele Entscheidungen an zu wenigen Köpfen — und unsere Account Manager:innen brauchen jemanden, der sie führt, nicht nur jemanden, der über ihnen steht.\nDeshalb bauen wir die Ebene der Key Account Manager aus. Du übernimmst ein eigenes Team und ein eigenes Kundenportfolio — und gestaltest mit, wie Betreuung bei MAILODY in Zukunft funktioniert.\nWir sagen offen dazu: Diese Rolle ist gerade die anspruchsvollste im Unte",
+    "url": "https://www.arbeitnow.com/jobs/companies/mailody-gmbh/teamfuhrung-crm-e-mail-marketing-berlin-76993"
+  },
+  {
+    "id": "vacante-33",
+    "titulo": "Key Account Manager E-Commerce CRM / E-Mail Marketing",
+    "empresa": "MAILODY GmbH",
+    "ubicacion": "Berlin",
+    "remoto": true,
+    "tags": "Remote, Marketing and Communication",
+    "descripcion": "Wir wachsen schneller, als unsere Betreuungsstruktur mitkommt. Aktuell hängen zu viele Entscheidungen an zu wenigen Köpfen — und unsere Account Manager:innen brauchen jemanden, der sie führt, nicht nur jemanden, der über ihnen steht.\nDeshalb bauen wir die Ebene der Key Account Manager aus. Du übernimmst ein eigenes Team und ein eigenes Kundenportfolio — und gestaltest mit, wie Betreuung bei MAILODY in Zukunft funktioniert.\nWir sagen offen dazu: Diese Rolle ist gerade die anspruchsvollste im Unte",
+    "url": "https://www.arbeitnow.com/jobs/companies/mailody-gmbh/key-account-manager-e-commerce-crm-e-mail-marketing-berlin-459495"
+  },
+  {
+    "id": "vacante-34",
+    "titulo": "Teamleiter CRM / E-Mail Marketing",
+    "empresa": "MAILODY GmbH",
+    "ubicacion": "Berlin",
+    "remoto": true,
+    "tags": "Remote, Marketing and Communication",
+    "descripcion": "Wir wachsen schneller, als unsere Betreuungsstruktur mitkommt. Aktuell hängen zu viele Entscheidungen an zu wenigen Köpfen — und unsere Account Manager:innen brauchen jemanden, der sie führt, nicht nur jemanden, der über ihnen steht.\nDeshalb bauen wir die Ebene der Key Account Manager aus. Du übernimmst ein eigenes Team und ein eigenes Kundenportfolio — und gestaltest mit, wie Betreuung bei MAILODY in Zukunft funktioniert.\nWir sagen offen dazu: Diese Rolle ist gerade die anspruchsvollste im Unte",
+    "url": "https://www.arbeitnow.com/jobs/companies/mailody-gmbh/teamleiter-crm-e-mail-marketing-berlin-401490"
+  },
+  {
+    "id": "vacante-35",
+    "titulo": "IT Security Experte (m/w/d) Incident Response & DLP",
+    "empresa": "Mandl. Executives & Experts",
+    "ubicacion": "Munich",
+    "remoto": true,
+    "tags": "Remote, IT Security",
+    "descripcion": "In dieser Rolle übernimmst du eine zentrale Funktion im Aufbau und in der Weiterentwicklung einer modernen IT-Sicherheitsstrategie mit Fokus auf Incident Response und Data Loss Prevention (DLP). Du arbeitest eng mit verschiedenen Fachbereichen zusammen und sorgst dafür, dass sensible Unternehmensdaten effektiv geschützt werden. Neben der operativen Arbeit im SIEM gestaltest du Security-Prozesse aktiv mit. Dich erwartet eine abwechslungsreiche Position mit viel Gestaltungsspielraum in einem siche",
+    "url": "https://www.arbeitnow.com/jobs/companies/mandl-executives-experts/it-security-experte-incident-response-dlp-munich-455340"
+  },
+  {
+    "id": "vacante-36",
+    "titulo": "AI Developer (m/w/d)",
+    "empresa": "Metanoia IT Solutions GmbH",
+    "ubicacion": "Hamburg",
+    "remoto": true,
+    "tags": "Remote, Software Development",
+    "descripcion": "Metanoia IT entwickelt Software und skalierbare SaaS-Lösungen für eine ausgewählte Zahl etablierter Stammkunden – SaaS- und Mittelstandsfirmen mit eigener Software, Ausgründungen und eigenen Projekten. Wir arbeiten AI-nativ und bringen KI genau dort ins Produkt, wo sie echten Mehrwert schafft.\nAufgaben\nDu verantwortest LLM-basierte Features von Anfang bis Ende – vom Prompt bis zu dem, was am Ende beim Nutzer ankommt – und es ist dir nicht egal, ob der Output am Ende wirklich taugt. Du bringst Id",
+    "url": "https://www.arbeitnow.com/jobs/companies/metanoia-it-solutions-gmbh/ai-developer-hamburg-381069"
+  },
+  {
+    "id": "vacante-37",
+    "titulo": "Senior Software Developer: Python (m/w/d)",
+    "empresa": "sync.blue® GmbH",
+    "ubicacion": "Haltern am See",
+    "remoto": true,
+    "tags": "Remote, Software Development",
+    "descripcion": "Du arbeitest strukturiert, behältst auch in komplexen Situationen den Überblick und willst deine Handschrift in einem Produkt hinterlassen, das täglich im Einsatz ist, vom Mittelständler bis zum Konzern? Dann passt du zu uns.\nWir sind ein dynamisches, hoch motiviertes Team mit familiärem Umgang. Als Ausgleich zur Remote-Arbeit treffen wir uns einmal pro Monat in Dülmen und zweimal pro Jahr für Team-Events an besonders spannenden Orten dieser Welt.\nAufgaben\n\nDu verantwortest neue Features end-to-",
+    "url": "https://www.arbeitnow.com/jobs/companies/syncblue-gmbh/senior-software-developer-python-haltern-am-see-285434"
+  },
+  {
+    "id": "vacante-38",
+    "titulo": "Technical SAP Product Owner (m/w/d)",
+    "empresa": "Natuvion GmbH",
+    "ubicacion": "Remote job",
+    "remoto": true,
+    "tags": "Product Development, Remote",
+    "descripcion": "Als Technical SAP Product Owner (m/w/d) übernimmst du eine Schlüsselrolle in der Weiterentwicklung unseres Natuvion DCS Produktportfolios. Du arbeitest eng mit internen Stakeholdern, Partnern, Kunden sowie funktionsübergreifenden Delivery-Teams zusammen, um sicherzustellen, dass unsere Produkte echten Mehrwert schaffen und Natuvion strategisch voranbringen.Deine Aufgaben:Verantwortung für die Produktvision, Strategie und Zielerreichung eines oder mehrerer Produkte innerhalb des Natuvion DCS Port",
+    "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-technical-sap-product-owner-berlin-118589"
+  },
+  {
+    "id": "vacante-39",
+    "titulo": "Senior Rendering Programmer (Remote/Onsite)",
+    "empresa": "Beamng",
+    "ubicacion": "Germany",
+    "remoto": true,
+    "tags": "Engineering, Computer Games, Engineering/Development, Remote",
+    "descripcion": "Role descriptionBeamNG is an independent game &amp; software development studio, established in 2013 in Bremen, Germany. We are an international, remote-first team of almost 90 people. Our development focuses on state-of-the-art soft-body physics vehicle simulation, currently available as an early access videogame - BeamNG.drive, and as a stand-alone research platform - BeamNG.techTo support our ongoing and future development plans, we are looking for an experienced Rendering Programmer with str",
+    "url": "https://www.arbeitnow.com/jobs/companies/beamng/senior-rendering-programmer-remote-onsite-germany-310115"
+  },
+  {
+    "id": "vacante-40",
+    "titulo": "Azure Cloud Engineer",
+    "empresa": "Market Cloud",
+    "ubicacion": "Eschborn",
+    "remoto": true,
+    "tags": "Remote, System and Network Administration",
+    "descripcion": "📢 Hiring: Azure Cloud Engineer\n📍 Location: Germany Remote\n💼 Experience: 1-3 years\n*German Language must*\nAre you passionate about cloud technologies and modern infrastructure? We are seeking an experienced Azure Cloud Engineer with strong knowledge of Azure Cloud Services, IaaS, PaaS, SaaS, Containers, and Kubernetes to join our growing team.\nTasks\nKey Responsibilities\n\nDesign, deploy, and manage scalable cloud solutions on Microsoft Azure.\nImplement and support Azure Infrastructure as a Serv",
+    "url": "https://www.arbeitnow.com/jobs/companies/market-cloud/azure-cloud-engineer-eschborn-294110"
+  },
+  {
+    "id": "vacante-41",
+    "titulo": "Staff / Senior Software Engineer (all genders)",
+    "empresa": "Distribusion Technologies",
+    "ubicacion": "Remote job",
+    "remoto": true,
+    "tags": "Technology, Remote",
+    "descripcion": "About usDistribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail and ferry operators in 70+ countries with the biggest online retailers including Google Maps and Booking.com.We are shaping the future of travel and building the largest global network of transport providers and retailers. We are one of the fa",
+    "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-staff-senior-software-engineer-all-genders-berlin-329891"
+  },
+  {
+    "id": "vacante-42",
+    "titulo": "Senior Data Scientist (m/f/x)",
+    "empresa": "Makersite GmbH",
+    "ubicacion": "Remote job",
+    "remoto": true,
+    "tags": "Engineering, Remote",
+    "descripcion": "Data Scientist (m/f/x)&nbsp;Location: EU(Remote)&nbsp;&nbsp;Who You’ll Work For:&nbsp;&nbsp;At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustainable decisions across their entire supply chain. Our cutting-edge software enables teams to design, prototype, and manufacture with transparency, efficiency, and responsibility—reducing enviro",
+    "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-323426"
+  },
+  {
+    "id": "vacante-43",
+    "titulo": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+    "empresa": "virtual7 GmbH",
+    "ubicacion": "Homeoffice",
+    "remoto": true,
+    "tags": "Customer Cluster Justice, Remote",
+    "descripcion": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Clusters Justice.DEINE MISSIONAls Kubernetes Administrator/Private Clo",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-33746"
+  },
+  {
+    "id": "vacante-44",
+    "titulo": "AI Solution Architect (m/w/d)",
+    "empresa": "virtual7 GmbH",
+    "ubicacion": "Homeoffice",
+    "remoto": true,
+    "tags": "Customer Cluster Environment, Transportation & Energy, Remote",
+    "descripcion": "Als IT-Dienstleister treiben wir die Digitalisierung des öffentlichen Sektors voran und schaffen echten Mehrwert für Millionen Menschen in Deutschland. Wir können vieles richtig gut, aber eben noch nicht alles. Darum suchen wir immer wieder neue Kolleg:innen, die mit ihren Ideen, ihrem Können und Engagement etwas bewegen wollen. Fühlst du dich angesprochen? Dann gestalte Deine Welt zum Besseren und werde Teil unseres Customer Cluster Environment, Transportation &amp; Energy.DEINE MISSIONAls AI S",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-336398"
+  },
+  {
+    "id": "vacante-45",
+    "titulo": "Founding G2M & Sales Manager - DACH & Nordics (gn) @ AI Digital Defense Venture, Germany",
+    "empresa": "atlantic.vc",
+    "ubicacion": "Remote job",
+    "remoto": true,
+    "tags": "Portfolio Company, Remote",
+    "descripcion": "This is an Atlantic portfolio venture.About the VentureWe build frontier artificial intelligence that helps governments and defence organisations make sense of a fast-moving information environment. Our systems help the teams responsible for national security read a complex information environment faster and clearer than ever before. We've closed a pre-seed round and are already running live government pilots, with plans to expand across Europe and beyond. This is an early, venture-backed compan",
+    "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/remote-founding-g2m-sales-manager-dach-nordics-gn-at-ai-digital-defense-venture-germany-berlin-71448"
+  },
+  {
+    "id": "vacante-46",
+    "titulo": "Forward Deployed Engineer (m/f/d)",
+    "empresa": "Quantum-Systems GmbH",
+    "ubicacion": "Remote job",
+    "remoto": true,
+    "tags": "Customer Success, Support & Training, Remote",
+    "descripcion": "As Field Support Technician, you will be a key part of our Solutions team to deliver on-site technical support, repair and troubleshooting for our drone systems across Europe.&nbsp;Together with our World-Class-Team, you will take an empowering role: pushing the boundaries of drone technologies. You will be working closely with stakeholders from the Support, R&amp;D, Product, Training/Demo departments to resolve technical issues on-site, ensure product reliability, and enable customer success th",
+    "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-forward-deployed-engineer-gilching-471511"
+  },
+  {
+    "id": "vacante-47",
+    "titulo": "Freiberufliche Karriere-, Job- und Bewerbungscoaches (m/w/d)",
+    "empresa": "select if Personalberatung",
+    "ubicacion": "Düsseldorf",
+    "remoto": true,
+    "tags": "Remote, Training, Development",
+    "descripcion": "Karriereservice;de steht für professionelle Karriereberatung, persönliche Entwicklungsarbeit, praxisnahe Führungstrainings und modernes Outplacement. Wir begleiten Menschen in unterschiedlichen beruflichen und persönlichen Situationen: Beim Einstieg in das Berufsleben, während des Studiums, in Veränderungsphasen, bei der beruflichen Neuorientierung und auf dem Weg zum nächsten Karriereschritt.\nDabei betrachten wir Karriere nicht isoliert. Berufliche Entscheidungen sind häufig eng mit persönliche",
+    "url": "https://www.arbeitnow.com/jobs/companies/select-if-personalberatung/freiberufliche-karriere-job-und-bewerbungscoaches-dusseldorf-345355"
+  },
+  {
+    "id": "vacante-48",
+    "titulo": "Business Development Manager Retail (m/w/d)",
+    "empresa": "12minutes GmbH",
+    "ubicacion": "Berlin",
+    "remoto": true,
+    "tags": "Remote, Management, Team Leader",
+    "descripcion": "Fully Remote · Vollzeit · Start asap · Direkt mit den Foundern · viel Ownership · wenig Bürokratie · Perspektive Head of Business Development\nOuchie macht Erste Hilfe für Familien einfacher, schöner und alltagstauglicher.\nUnsere Erste-Hilfe-Sets sind speziell für Familien mit Kindern entwickelt und kombinieren sinnvolle medizinische Produkte mit einem modernen, kompakten Design.\nDenn Pflaster, Kühlkompressen, Wundreinigung &#x26; Co. braucht fast jede Familie. Trotzdem sehen die meisten Erste-Hi",
+    "url": "https://www.arbeitnow.com/jobs/companies/12minutes-gmbh/business-development-manager-retail-berlin-199630"
+  },
+  {
+    "id": "vacante-49",
+    "titulo": "Technical Sales Engineer (m/f/d) - Metal Vacuum Impregnation",
+    "empresa": "Quaker Houghton",
+    "ubicacion": "Dortmund",
+    "remoto": true,
+    "tags": "Remote, Sales Engineer",
+    "descripcion": "Maldaner, a long-established specialist in impregnation services and surface technology, is now part of Quaker Houghton, the global leader in industrial process fluids and engineering solutions. We bring more than 30 years of expertise to the automotive, foundry and industrial markets, delivering solutions that significantly enhance material performance, reliability and efficiency.\nWe now have an exciting opportunity for a Technical Sales Engineer (m/f/d) to join our team and support customers a",
+    "url": "https://www.arbeitnow.com/jobs/companies/quaker-houghton/technical-sales-engineer-metal-vacuum-impregnation-dortmund-2373"
+  }
+]

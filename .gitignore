@@ -1,0 +1,9 @@
+node_modules/
+.env
+client/.env
+
+# Build artifacts
+client/dist/
+
+# Claude Code plugin artifacts
+.superpowers/
