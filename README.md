@@ -8,9 +8,10 @@ Sistema de matching de vacantes tecnológicas basado en RAG (**Retrieval-Augment
 
 ## Demo
 
-> _Próximamente: GIF de la llamada al endpoint y respuesta con vacantes rankeadas._
+![Demo del proyecto](docs/assets/demo.gif)
 
 Ejemplo de request y respuesta real:
+
 
 **Request**
 ```json
